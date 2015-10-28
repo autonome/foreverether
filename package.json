@@ -1,9 +1,10 @@
 {
   "name": "foreverether",
   "title": "Foreverether",
-  "id": "jid1-Az4afAuXMhcegw",
+  "id": "jid1-Az4afAuXMhcegw@jetpack",
   "description": "Automatically bookmarks any etherpad.mozilla.org page, so you can never lose the etherpad.",
   "author": "Dietrich Ayala (@dietrich)",
   "license": "MPL 2.0",
-  "version": "0.1"
+  "version": "0.2",
+  "main": "./lib/main.js"
 }
